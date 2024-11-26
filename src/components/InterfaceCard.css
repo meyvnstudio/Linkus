@@ -1,0 +1,25 @@
+.interface-card {
+  width: 100%;
+  border: 1px solid #ccc;
+  background: white;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+iframe {
+  width: 100%;
+  height: 180px;
+  border-radius: 5px;
+}
+
+.video-title {
+  margin-top: 10px;
+  color: #007bff;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.video-title:hover {
+  text-decoration: none;
+}
